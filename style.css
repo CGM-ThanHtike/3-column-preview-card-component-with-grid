@@ -79,16 +79,16 @@ main {
 
 .card-container .card .car-type {
   font-size: 2.5rem;
-  line-height: 1.2;
+  line-height: 1.1;
 }
 
 .card-container .card img,
 .card-container .card .car-type {
-  margin-bottom: 36px;
+  margin-bottom: 32px;
 }
 
 .card-container .card .detail {
-  margin-bottom: 28px;
+  margin-bottom: 26px;
 }
 .btn {
   padding: 1em 2em;
@@ -113,7 +113,7 @@ main {
   }
 
   main {
-    margin-top: 60px;
+    margin-top: 42px;
   }
 
   .card-container {
