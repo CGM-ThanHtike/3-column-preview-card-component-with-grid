@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
   min-height: 100vh;
   min-height: 100dvh;
-  line-height: 1.5;
+  line-height: 1.7;
   color: var(--clr-neutral-200);
   font-family: 'Lexend Deca', sans-serif;
   font-size: 0.9375rem;
@@ -79,12 +79,12 @@ main {
 
 .card-container .card .car-type {
   font-size: 2.5rem;
-  line-height: 1;
+  line-height: 1.2;
 }
 
 .card-container .card img,
 .card-container .card .car-type {
-  margin-bottom: 32px;
+  margin-bottom: 36px;
 }
 
 .card-container .card .detail {
@@ -113,7 +113,7 @@ main {
   }
 
   main {
-    margin-top: 30px;
+    margin-top: 60px;
   }
 
   .card-container {
